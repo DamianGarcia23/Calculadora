@@ -21,7 +21,7 @@
         android:clickable="true"
         />
 
-    <!-- Botones para números -->
+
     <Button
         android:layout_width="30dp"
         android:layout_height="120dp"
